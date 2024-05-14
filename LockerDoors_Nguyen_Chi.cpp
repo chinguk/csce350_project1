@@ -1,4 +1,4 @@
-// Copyright Chi Nguyen 2024
+// Copyright 2024 Chi Nguyen
 #include<iostream>
 using std::cout;
 using std::endl;
@@ -39,6 +39,6 @@ int main() {
   cout << "Number of open lockers: " << count << endl;
 
   delete[] lock;
-  
+
   return 0;
 }
